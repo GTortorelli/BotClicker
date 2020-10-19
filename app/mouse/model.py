@@ -1,7 +1,7 @@
 import pyautogui
 
 
-class Mouse():
+class Mouse:
     """Class that will have all the commands for the auto-clicker"""
 
     def get_current_mouse_position(self) -> dict:
